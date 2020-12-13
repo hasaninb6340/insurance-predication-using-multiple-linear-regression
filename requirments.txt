@@ -1,0 +1,6 @@
+following are requirements of python librarires
+numpy
+pandas
+sklearn
+seaborn
+pickle
